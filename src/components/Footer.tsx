@@ -28,7 +28,7 @@ const Footer = () => {
               <li><a href="mailto:ashishdhangiya@gmail.com" className="text-gray-400 hover:text-white transition-colors">Email</a></li>
               <li><a href="http://www.linkedin.com/in/ashish-dhingya-60112827b" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">LinkedIn</a></li>
               <li><a href="https://github.com/Ashishdhangiya" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">GitHub</a></li>
-              <li><a href="/resume.pdf" download className="text-gray-400 hover:text-white transition-colors">Resume</a></li>
+              <li><a href='https://white-cathrin-24.tiiny.site/' download className="text-gray-400 hover:text-white transition-colors">Resume</a></li>
             </ul>
           </div>
         </div>
